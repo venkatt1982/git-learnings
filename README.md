@@ -8,7 +8,7 @@ LinkedIn: https://www.linkedin.com/in/davidmahler
 
 References:
 Pro Git by Scott Chacon - https://git-scm.com/book/en/v2
-Visual Git Reference by Mark Lodato - https://marklodato.github.io/visual-g...
+Visual Git Reference by Mark Lodato - https://marklodato.github.io/visual-git-guide/index-en.html
 
 Commands used in this video:
 git init - initialize a new repo in a directory
